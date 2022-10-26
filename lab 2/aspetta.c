@@ -10,7 +10,7 @@ int main()
 
     pid1 = fork(); 
     
-/home/rara/TI/Sistemi-Operativi/lab 2/12    if (pid1 == 0)
+    if (pid1 == 0)
     {
         sleep(4);
     }
