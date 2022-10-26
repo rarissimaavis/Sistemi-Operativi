@@ -21,6 +21,7 @@ int main()
     if (pid1 < 0)
     {
         printf("Errore della fork\n");
+        exit(0);
     }
     if (pid1 == 0)
     {
@@ -31,9 +32,10 @@ int main()
     {
         pid2 = fork();
         
-        if (pid1 < 0)
+        if (pid2 < 0)
         {
             printf("Errore della fork\n");
+            exit(0);
         }
         if (pid2 == 0)
         {
