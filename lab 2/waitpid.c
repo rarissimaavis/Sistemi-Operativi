@@ -1,3 +1,4 @@
+//26/10/22
 /*
 Un processo P crea due figli e aspetta la terminazione di entrambi
 Il primo figlio stamperà sullo schermo un messaggio indicando il proprio pid e poi stampa sullo schermo i numeri da 1 a 50

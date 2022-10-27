@@ -1,3 +1,8 @@
+//19/10/22
+/*
+Un processo crea un figlio
+Il figlio scriverà sullo schermo i primi 10 numeri di Fibonacci mentre il padre i primi 10 numeri Fattoriali
+*/
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>

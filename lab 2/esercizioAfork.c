@@ -1,3 +1,4 @@
+//19/10/22
 /*
 Un processo P crea due figli ed aspetta la terminazione di entrambi
 Il primo figlio stampa sullo schermo un messaggio indicando il proprio pid e il pid di P, poi termina

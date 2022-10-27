@@ -1,3 +1,4 @@
+//12/10/22
 #include <unistd.h>
 #include <stdio.h>
 
@@ -10,6 +11,7 @@ int main()
     if (value < 0)
     {
         printf("Errore nella system call fork\n");
+        exit(0);
     }
     //dobbiamo sempre distinguere esplicitamente quello che fa il padre da quello che fa il figlio
     if (value == 0)

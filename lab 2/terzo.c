@@ -1,3 +1,4 @@
+//12/10/22
 #include <unistd.h>
 #include <stdio.h>
 
@@ -10,6 +11,7 @@ int main()
     if (value < 0)
     {
         printf("Errore nella system call fork\n");
+        exit(0);
     }
     if (value == 0)
     {
@@ -29,6 +31,7 @@ int main()
         if (value2 < 0)
         {
             printf("Errore nella system call fork\n");
+            exit(0);
         }   
         if (value2 == 0)
         {
