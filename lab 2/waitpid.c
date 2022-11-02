@@ -1,7 +1,7 @@
 //26/10/22
 /*
 Un processo P crea due figli e aspetta la terminazione di entrambi
-Il primo figlio stamperà sullo schermo un messaggio indicando il proprio pid e poi stampa sullo schermo i numeri da 1 a 50
+Il primo figlio stampa sullo schermo un messaggio indicando il proprio pid e poi stampa sullo schermo i numeri da 1 a 50
 Il secondo figlio stampa sullo schermo il pid del padre e poi stampa sullo schermo i numeri da 101 a 150 e poi termina
 Dopo la terminazione dei due figli P stampa sullo schermo un messaggio indicando il pid dei due figli ed il fatto che sono terminati e poi termina
 */
