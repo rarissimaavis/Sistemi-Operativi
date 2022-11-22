@@ -6,3 +6,6 @@
 - chiedere informazioni sullo stato di uscita del figlio: wait e waitpid
 - eseguire un programma diverso dal padre: exec
 - shell: simulare una shell utilizzando le system call
+
+## intercorso
+- intercorso1: fork, waitpid, exec
