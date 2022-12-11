@@ -10,8 +10,10 @@
 
 ## lab 3: signals
 - sigusr1, sigusr2
-- sigint
-
+- sigint (ctrl-c)
+- ignorare il segnale: sig_ign 
+- mandare un segnale ad un processo specificato da pid: kill
+- mandare un segnale a se stesso: raise
 
 ## intercorso
 - intercorso1: fork, waitpid, exec
