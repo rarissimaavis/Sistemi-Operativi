@@ -9,7 +9,8 @@
 - terminazione: exit
 
 ## lab 3: signals
-- sigusr1, sigusr2, sigint
+- sigusr1, sigusr2
+- sigint
 
 
 ## intercorso
