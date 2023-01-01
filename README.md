@@ -16,4 +16,5 @@
 - mandare un segnale a se stesso: raise
 
 ## intercorso
-- intercorso1: fork, waitpid, exec
+- intercorso1: process control
+- intercorso2: signals
