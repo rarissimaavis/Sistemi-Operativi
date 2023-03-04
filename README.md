@@ -1,4 +1,6 @@
 # Sistemi-Operativi
+https://magenta-squirrel-e2f.notion.site/Sistemi-Operativi-e0fef244ccc2409d87ff196b5eb1bd09
+
 ## lab 2: process control
 - identificatori di processi: getpid e getppid
 - creazione di nuovi processi: fork
